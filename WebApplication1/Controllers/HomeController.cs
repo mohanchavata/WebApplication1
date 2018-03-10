@@ -26,6 +26,8 @@ namespace WebApplication1.Controllers
 
             return View();
         }
+        
+        //This is the test comments
         public ActionResult SampleView()
         {
             return View();
